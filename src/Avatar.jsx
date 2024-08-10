@@ -2,7 +2,7 @@ import React from 'react'
 
 function Avatar() {
   return (
-    <div>Avatar</div>
+    <div><img className='avatar' src="/pic.jpg" alt="Mahmoud Alhol" /></div>
   )
 }
 
